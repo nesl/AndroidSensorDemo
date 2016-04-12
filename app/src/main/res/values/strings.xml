@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSensorDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button1">Start</string>
+    <string name="button2">Stop</string>
+</resources>
