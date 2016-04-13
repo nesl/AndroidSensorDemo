@@ -32,6 +32,7 @@
         android:id="@+id/textView1"
         android:layout_below="@+id/button1"
         android:layout_marginTop="50dp"
+        android:textSize="30sp"
         android:layout_centerHorizontal="true" />
 
     <TextView
@@ -41,6 +42,7 @@
         android:id="@+id/textView2"
         android:layout_below="@+id/textView1"
         android:layout_marginTop="10dp"
+        android:textSize="30sp"
         android:layout_centerHorizontal="true" />
 
     <TextView
@@ -50,6 +52,7 @@
         android:id="@+id/textView3"
         android:layout_below="@+id/textView2"
         android:layout_marginTop="10dp"
+        android:textSize="30sp"
         android:layout_centerHorizontal="true" />
 
     <Button
